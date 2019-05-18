@@ -1,0 +1,26 @@
+body {
+    color: 	#4682B4;
+    font-family: cursive; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+    background-color: black;
+    margin: 0;
+}
+#mode {
+    font-family: cursive; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+    color:red;
+    background-color: peachpuff;
+    font-family: 'Major Mono Display', monospace;
+    height: 100vh;
+    text-align:center;
+    padding-top: 10%;
+
+    
+}
+h1 h2 h3{
+    text-transform: uppercase;
+}
+#haha {
+    height: 100vh;
+}
+#img{
+    border-radius: 15px;
+}

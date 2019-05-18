@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.15em;
+}
+.img{
+    border-radius: 15px;
+    text-align: center;
+    
+}
+#baby{
+    height: 100vh;
+    padding-top: 15%;
+    background-color: #ffedb5;
+    background-blend-mode: multiply;
+    background-attachment: fixed;   
+}
+#baby2{
+    background-color: white;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    text-align: center;   
+}
+
+#baby2 li{
+    width: 60%;
+    margin: 0 auto; 
+}
+a:hover {
+    color: #253825;
+    font-size: 1.7em;
+    text-decoration: none;   
+}
+#social li{
+    display: inline;
+}
+hr{
+    display: none;
+}
+.box{
+    background-color: #b22222;
+    color: white;
+    box-shadow: 5px 10px yellow;
+}
+#baby3{
+    background-color: grey;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.yay{
+    display: inline;
+}
+ol{
+    list-style-position: inside;
+}
